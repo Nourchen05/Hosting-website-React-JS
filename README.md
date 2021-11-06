@@ -1,6 +1,7 @@
-It is a react application for hosting data in security. 
+## A react application for hosting data in security. 
 
 Technlogies: react, react-router, styled components
+
 Hosting : Heroku
 
 # Visiting website
