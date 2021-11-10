@@ -6,6 +6,12 @@ Technlogies: react, react-router, styled components
 
 Hosting : Heroku
 
+
+
+https://user-images.githubusercontent.com/76560618/141134098-3baa8404-11e8-41a6-92d3-7c9fa86902ec.mp4
+
+
+
 ## Try it
 
 You can visite the website by clicking to this link :
